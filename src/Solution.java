@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Scanner;
 
-public class LinkedListTraversal {
+public class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         LinkedList<Integer> list = new LinkedList<>();
